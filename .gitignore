@@ -9,6 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+*ListMakerDB.publish.xml
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
