@@ -1,0 +1,10 @@
+C:\Users\chris\source\repos\ListMakerApp\ListMakerDB\bin\Debug\ListMakerDB.dacpac
+C:\Users\chris\source\repos\ListMakerApp\ListMakerDB\bin\Debug\ListMakerDB.dll
+C:\Users\chris\source\repos\ListMakerApp\ListMakerDB\bin\Debug\ListMakerDB.pdb
+C:\Users\chris\source\repos\ListMakerApp\ListMakerDB\obj\Debug\ListMakerDB.sqlproj.AssemblyReference.cache
+C:\Users\chris\source\repos\ListMakerApp\ListMakerDB\obj\Debug\Model.xml
+C:\Users\chris\source\repos\ListMakerApp\ListMakerDB\obj\Debug\refactor.xml
+C:\Users\chris\source\repos\ListMakerApp\ListMakerDB\obj\Debug\postdeploy.sql
+C:\Users\chris\source\repos\ListMakerApp\ListMakerDB\obj\Debug\predeploy.sql
+C:\Users\chris\source\repos\ListMakerApp\ListMakerDB\obj\Debug\ListMakerDB.dll
+C:\Users\chris\source\repos\ListMakerApp\ListMakerDB\obj\Debug\ListMakerDB.pdb
