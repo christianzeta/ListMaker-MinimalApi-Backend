@@ -5,13 +5,13 @@ using System.Data;
 
 namespace DataAccess.DbAccess;
 
-public class SqlDataAccess
+public class SqlDataAccess : ISqlDataAccess
 {
     private readonly IConfiguration _config;
     public SqlDataAccess(IConfiguration config)
     {
         _config = config;
-    } 
+    }
 
     public async Task<IEnumerable<T>> LoadData<T, U>(
         string storedProcedure,

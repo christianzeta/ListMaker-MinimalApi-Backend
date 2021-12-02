@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Models;
 
-internal class ListModel
+public class ListModel
 {
     public int Id { get; set; }
     public string Title { get; set; } 
