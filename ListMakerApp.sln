@@ -7,6 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListMaker", "ListMaker\List
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ListMakerDB", "ListMakerDB\ListMakerDB.sqlproj", "{D69E061B-04AF-43E2-9FD9-0C3DA8511BA9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D5AE737B-7EE3-48AC-A476-7150D2B82421}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{FAED7B60-80BF-48BE-A2AC-124DB94F1E1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +30,10 @@ Global
 		{D69E061B-04AF-43E2-9FD9-0C3DA8511BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D69E061B-04AF-43E2-9FD9-0C3DA8511BA9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D69E061B-04AF-43E2-9FD9-0C3DA8511BA9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FAED7B60-80BF-48BE-A2AC-124DB94F1E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAED7B60-80BF-48BE-A2AC-124DB94F1E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAED7B60-80BF-48BE-A2AC-124DB94F1E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAED7B60-80BF-48BE-A2AC-124DB94F1E1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
